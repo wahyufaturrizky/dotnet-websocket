@@ -1,0 +1,12 @@
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/WebsocketAPI
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/appsettings.json
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/WebsocketAPI.dll
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/WebsocketAPI.deps.json
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/WebsocketAPI.runtimeconfig.json
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/WebsocketAPI.pdb
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/wahyufaturrizki/Documents/Dotnet/WebsocketAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
